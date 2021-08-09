@@ -11,7 +11,7 @@
  - Routing
 
 ### Practice
- - [Setup](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/Installation.md)
+ - [Setup](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/setup.md)
 
 
 ## Part 2

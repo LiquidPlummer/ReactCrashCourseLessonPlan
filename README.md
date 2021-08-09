@@ -9,3 +9,7 @@
 
 
  - [Setup](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/Installation.md)
+
+
+<BR><BR>See Also:  
+ [React Guide](https://reactjs.org/docs/hello-world.html)

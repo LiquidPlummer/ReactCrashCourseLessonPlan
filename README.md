@@ -8,7 +8,9 @@
  - [Components](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/components.md)
  - [JSX](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/jsx.md)
  - [Rendering](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/rendering.md)
- - [Props and State](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/props-and-state.md)
+ - State
+   - [Props](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/props-and-state.md)
+   - [Hooks](https://reactjs.org/docs/hooks-state.html)
  - [Events](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/events.md)
  - [Routing](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/routing.md)
 

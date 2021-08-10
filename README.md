@@ -20,6 +20,9 @@
 
 ## Part 2
 ### Advanced Topics
+ - React-Bootstrap
+ - Redux
+ - Axios
 ### Practice
 
 

@@ -19,6 +19,7 @@
 
 ## Part 2
 ### Advanced Topics
+ - Lifting data
  - React-Bootstrap
  - Redux
  - Axios

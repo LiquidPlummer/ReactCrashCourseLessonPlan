@@ -1,4 +1,4 @@
-### Component Based
+### Components
 The basic code unit of a react project is the component. A component is a re-usable portion of UI located in it's own file. Components can be written in one of two ways, as a class or as a function. A component must be made up of exactly one root element, all other elements mst be nested inside the root. To help with this, react has fragments. `<> </>` these empty tags can be used to contain multiple top-level elements.
 
 #### Class Components

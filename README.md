@@ -5,8 +5,8 @@
  - React
    - [Overview](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-overview.md)
    - [Single Page Application](https://gitlab.com/revature_training/react-team/-/blob/master/modules/01-intro-to-react/single-page-application.md)
- - [JSX](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/jsx.md)
- - [Components](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/components.md)
+ - [JSX](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/jsx.md)
+ - [Components](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
  - [Rendering](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/rendering.md)
  - [Props](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/props-and-state.md)
  - [State & Hooks](https://reactjs.org/docs/hooks-state.html)

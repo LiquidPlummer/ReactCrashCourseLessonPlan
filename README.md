@@ -9,7 +9,7 @@
  - [Components](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
  - [Rendering](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/rendering.md)
  - [Props](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/props-and-state.md)
- - [State & Hooks](https://reactjs.org/docs/hooks-state.html)
+ - [State & Hooks](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/state-hooks.md)
  - [Events](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/events.md)
  - [Routing](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/routing.md)
 
@@ -31,3 +31,4 @@
 
 <BR><BR>See Also:  
  [React Guide](https://reactjs.org/docs/hello-world.html)
+ [Using the State Hook](https://reactjs.org/docs/hooks-state.html)

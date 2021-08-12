@@ -6,12 +6,11 @@
    - [Overview](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-overview.md)
    - [Single Page Application](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/single-page-app.md)
  - [JSX](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/jsx.md)
- - [Components](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
+ - [Components & Props](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
  - [Rendering](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/rendering.md)
- - [Props](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/props-and-state.md)
  - [State & Hooks](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/state-hooks.md)
- - [Events](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/events.md)
- - [Routing](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/routing.md)
+ - [Events](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/events.md)
+ - [Routing](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/routing.md)
 
 ### Practice
  - [Setup](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/setup.md)

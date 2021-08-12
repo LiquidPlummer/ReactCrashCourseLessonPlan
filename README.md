@@ -19,10 +19,10 @@
 
 ## Part 2
 ### Advanced Topics
- - Lifting data
- - React-Bootstrap
- - Redux
- - Axios
+ - [Lifting State](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/lifting-state.md)
+ - [React-Bootstrap](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-bootstrap.md)
+ - [Redux](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/redux.md)
+ - [Axios](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/axios.md)
 ### Practice
 
 

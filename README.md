@@ -4,7 +4,7 @@
 ### Theory
  - React
    - [Overview](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-overview.md)
-   - [Single Page Application](https://gitlab.com/revature_training/react-team/-/blob/master/modules/01-intro-to-react/single-page-application.md)
+   - [Single Page Application](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/single-page-app.md)
  - [JSX](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/jsx.md)
  - [Components](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
  - [Rendering](https://gitlab.com/revature_training/react-team/-/blob/master/modules/02-react-fundamentals/rendering.md)

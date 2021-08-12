@@ -2,8 +2,7 @@
 
 ## Part 1
 ### Theory
- - React
-   - [Overview](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-overview.md)
+ - [React](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/react-overview.md)
    - [Single Page Application](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/single-page-app.md)
  - [JSX](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/jsx.md)
  - [Components & Props](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)

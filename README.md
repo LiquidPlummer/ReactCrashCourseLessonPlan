@@ -1,4 +1,10 @@
 # React Crash Course
+## Zoom Recordings:
+Part 1:
+https://revature.zoom.us/rec/share/stT-yUIFGicZyArErYhK0l9_jBmy85KC22eDa0qmWrdBPJaGyUjn9NjHAy9H-y2I.D3B5LpGrdfi0gUnb Passcode: 1sxb$L%z 
+
+Part 2:
+https://revature.zoom.us/rec/share/YsAoCSk3hMXIlCML_Ey5weAQfeVkbxEpMr1CcI4b87H-WF0lcgbgkfTxVzdCP5ga.AnEfDTeIaQuCAOjU Passcode: 9QK^F$d8 
 
 ## Part 1
 ### Theory

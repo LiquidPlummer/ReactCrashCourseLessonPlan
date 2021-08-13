@@ -28,8 +28,7 @@
 ### Practice Project
 We want to use React, Redux, Axios.
 
-Create a single page application that includes and input form in a component, and renders data from an external API where the API call depends on info from form. 
-These components should share that info via Redux store.
+Create a single page application that includes an input form in a component, and renders data from an external API in another component. The the API call should depend on info from the form. These components should share that info via Redux store.
 
 
 <BR><BR>See Also:  

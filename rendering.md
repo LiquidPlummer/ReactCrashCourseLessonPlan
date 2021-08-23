@@ -9,7 +9,7 @@ function HelloWorld() {
 ReactDom.render(<HelloWorld />, document.getElementById("root"));
 ```
 
-When we create a SPA, this render method need only be invoked once. Otherwise we nest components within each other and use a [router]()
+When we create an SPA, this render method need only be invoked once. Otherwise we nest components within each other and use a [router]()
 to navigate between them.
 
 ## Conditional Rendering

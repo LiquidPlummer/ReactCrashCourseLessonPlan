@@ -1,5 +1,7 @@
 ### Components
-The basic code unit of a react project is the component. A component is a re-usable portion of UI located in it's own file. Components can be written in one of two ways, as a class or as a function. A component must be made up of exactly one root element, all other elements mst be nested inside the root. To help with this, react has fragments. `<> </>` these empty tags can be used to contain multiple top-level elements.
+The basic code unit of a react project is the component. A component is a re-usable portion of UI located in it's own file. Components should each have a single use, and be separated according to the Single Responsibility Principle.  
+  
+Components can be written in one of two ways, as a class or as a function. A component must be made up of exactly one root element, all other elements mst be nested inside the root. To help with this, react has fragments. `<> </>` these empty tags can be used to contain multiple top-level elements.
 
 #### Class Components
 Class components are written as a class that extends React.Component. Each class component has it's own built-in state. A class component must have a render() method which contains a return statement returning the JSX that describes the component. Other logic for the component should be inside the render() method.  
@@ -67,4 +69,5 @@ Props are immutable and one-way. In order to send data back up to parent compone
 
 
 <BR><BR>See Also:  
-[Reach Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) 
+[Reach Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+[SOLID - Single Responsibility Principle](https://www.baeldung.com/java-single-responsibility-principle)

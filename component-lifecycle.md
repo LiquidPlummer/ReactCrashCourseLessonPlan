@@ -1,5 +1,5 @@
 
-
+![React Component Lifecycle Diagram](https://raw.githubusercontent.com/LiquidPlummer/ReactCrashCourseLessonPlan/main/images/component-lifecycle-diagram.PNG)
 
 
 <BR><BR>See Also:

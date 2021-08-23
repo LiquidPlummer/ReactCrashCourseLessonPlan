@@ -1,7 +1,7 @@
 # Redux Primer
 Redux is a library designed to better manage state in React. It can actually be used with libraries other than React. In order to better manage state throughout a React app, you use a store to hold one or more "slices" (slices are just separate state data split into smaller units). We use reducers to mutate state, we dispatch actions (state data payloads) to the reducers, and we subscribe to the store to get the up-to-date state. Redux follows a fairly simple paradigm, but seems more daunting than it actually is.
 
-![redux workflow](https://user-images.githubusercontent.com/88201685/129263249-37e34332-670f-4735-a4eb-32acaf048241.png)
+![redux workflow](https://raw.githubusercontent.com/LiquidPlummer/ReactCrashCourseLessonPlan/main/images/redux-flow.png)
 
 
 ## State

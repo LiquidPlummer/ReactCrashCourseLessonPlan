@@ -1,9 +1,9 @@
-### Components
+## Components
 The basic code unit of a react project is the component. A component is a re-usable portion of UI located in it's own file. Components should each have a single use, and be separated according to the Single Responsibility Principle.  
   
 Components can be written in one of two ways, as a class or as a function. A component must be made up of exactly one root element, all other elements mst be nested inside the root. To help with this, react has fragments. `<> </>` these empty tags can be used to contain multiple top-level elements.
 
-#### Class Components
+### Class Components
 Class components are written as a class that extends React.Component. Each class component has it's own built-in state. A class component must have a render() method which contains a return statement returning the JSX that describes the component. Other logic for the component should be inside the render() method.  
   
 You can create the component state in the constructor, and manage state with the this.setState() method.  
@@ -23,7 +23,7 @@ export class ClassExample extends React.Component {
 ```
 
 
-#### Function Components
+### Function Components
 Function components are written as a function. These components don't define their own render() method, they just need to return the JSX describing the component. Other logic should be in the function, outside the return block.  
   
 State in functional components can be managed using the state hooks.
@@ -41,7 +41,7 @@ function FunctionExample() {
 export default FunctionExample;
 ```
 
-### Props
+## Props
 Props are data passed from parent component down to child components.  
 ```
 function Kangaroo(props){

@@ -6,11 +6,12 @@ You should not call setState() in the constructor. The constructor is the only p
  - [render()](https://reactjs.org/docs/react-component.html#render)  
 This is the only required method. All class components must have exactly one render() method. This should return a single root element described with JSX.
  - [componentDidMount()](https://reactjs.org/docs/react-component.html#componentdidmount)  
-This is invoked immediately after a component is inserted into the tree. Initialization that requires DOM nodes should go here. This is also a good place to make requests for data to remote endpoints. You can also begin calling setState() here. This will trigger an extra render, but both should complete before the browser updates the screen.
+This is invoked immediately after a component is inserted into the tree. Initialization that requires DOM nodes should go here. This is also a good place to make requests for data to remote endpoints. You can also begin calling setState() here. This will trigger an extra render, but both should complete before the browser updates the screen. This method is not invoked for updates, instead see componentDidUpdate() for that.
 
 ### Updating
  - [render()](https://reactjs.org/docs/react-component.html#render)
- - [componentDidUpdate()](https://reactjs.org/docs/react-component.html#componentdidupdate)
+ - [componentDidUpdate()](https://reactjs.org/docs/react-component.html#componentdidupdate)  
+This is invoked as soon as an update has occurred. Make sure to be careful using setState() in this method to avoid an infinite loop (setState should trigger an update). This method is not invoked upon the initial render, instead use componentDidMount() for that. 
 
 ### Unmounting
  - [componentWillUnmount()](https://reactjs.org/docs/react-component.html#componentwillunmount)  

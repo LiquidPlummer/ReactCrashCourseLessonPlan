@@ -1,5 +1,5 @@
 # React Crash Course
-
+TODO: Add quick review of spread, rest, and destructuring operators. (For Redux reducers, and React state hooks)
 
 ## Part 1
 ### Theory

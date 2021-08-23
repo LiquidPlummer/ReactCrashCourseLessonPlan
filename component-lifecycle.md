@@ -1,6 +1,4 @@
 
-![React Component Lifecycle Diagram](https://raw.githubusercontent.com/LiquidPlummer/ReactCrashCourseLessonPlan/main/images/component-lifecycle-diagram.PNG)
-
 ### Mounting
  - [constructor()](https://reactjs.org/docs/react-component.html#constructor)
  - [render()](https://reactjs.org/docs/react-component.html#render)
@@ -13,7 +11,7 @@
 ### Unmounting
  - [componentWillUnmount()](https://reactjs.org/docs/react-component.html#componentwillunmount)
 
-
+![React Component Lifecycle Diagram](https://raw.githubusercontent.com/LiquidPlummer/ReactCrashCourseLessonPlan/main/images/component-lifecycle-diagram.PNG)
 
 
 <BR><BR>See Also:

@@ -12,7 +12,7 @@ https://revature.zoom.us/rec/share/YsAoCSk3hMXIlCML_Ey5weAQfeVkbxEpMr1CcI4b87H-W
    - [Single Page Application](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/single-page-app.md)
  - [JSX](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/jsx.md)
  - [Components & Props](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/components.md)
-   - [Component Lifecycle]()
+   - [Component Lifecycle](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/component-lifecycle.md)
  - [Rendering](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/rendering.md)
  - [State & Hooks](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/state-hooks.md)
  - [Events](https://github.com/LiquidPlummer/ReactCrashCourseLessonPlan/blob/main/events.md)

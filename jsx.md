@@ -1,5 +1,21 @@
 # JSX
-JSX stands for JavaScript XML and it allows you to write what looks like HTML inside of your JS code in React. Think of it as a convenient way of conceptualizing what your view will look like without having to leave your JS file. React uses JSX to describe components. The return block should contain your JSX component code.  
+JSX stands for JavaScript XML and it allows you to write what looks like HTML inside of your JS code in React. Think of it as a convenient way of conceptualizing what your view will look like without having to leave your JS file. React uses JSX to describe components. For example, the following element can be created using JSX in a regular JS file:
+```JS
+const myElement =(
+  <div>
+    <h1>Hello</h1>
+    <p>Have a great day!</p>
+  </div>
+);
+```
+
+Here is equivalent JS for a situation where you wanted to create an element without JSX:
+```JS
+const myElement = React.createElement("div", null, React.createElement("h1", null, "Hello"),React.createElement("p", null, "Have a great day!"));
+```
+
+
+The return block should contain your JSX component code.  
   
 After complilation JSX expressions become JS function calls  and evaluate to JS objects.  
   
